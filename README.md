@@ -4,8 +4,6 @@
 
 ## 🖼️ Tela
 
-![Interface do ChatPDF Acadêmico](interface.png)
-
 ![Interface do ChatPDF Acadêmico](response.png)
 
 
